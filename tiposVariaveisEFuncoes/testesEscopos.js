@@ -32,7 +32,7 @@
 
 
 // Escopo de função
-// variáveis declaradas dentro de uma função sçao consideradas "locais", ou seja, o oposto de globais. Elas só podem ser acessadas dentro da função onde foram declaradas.
+// variáveis declaradas dentro de uma função são consideradas "locais", ou seja, o oposto de globais. Elas só podem ser acessadas dentro da função onde foram declaradas.
 // function cumprimentar () {
 //     const nome = 'Camila';
 //     const cumprimento = 'Olá';
